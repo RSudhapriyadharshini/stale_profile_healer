@@ -1,0 +1,13 @@
+name,source_name,role,url
+David Cobell,primary_directory,primary,https://www.compass.com/agents/d-cobell/
+David Cobell,secondary_directory,secondary,https://www.realtor.com/realestateagents/56d6d819b5cc660100bdba8e
+Andrew Sohn,secondary_directory,primary,https://www.compass.com/agents/andrew-sohn/
+Ace Lahli,primary_directory,primary,https://www.elliman.com/agent/ace-lahli/1024440
+Ace Lahli,secondary_directory,secondary,https://www.realtor.com/realestateagents/587aaef7132eb10010d38986
+Tim Curley Egan,primary_directory,primary,https://www.raveis.com/Agent/imCurley-Egan/15899/
+Tim Curley Egan,secondary_directory,secondary,https://www.realtor.com/realestateagents/60c9d918ca28fe0012023ee5
+Priya Nair,primary_directory,primary,https://httpstat.us/500
+Tom Singh,primary_directory,primary,https://httpstat.us/503
+Jude Nassar,primary_directory,primary,https://www.homes.com/real-estate-agents/jude-nassar/lx9hvcd/
+Nora Blake,primary_directory,primary,https://httpstat.us/429
+Maria Lopez,primary_directory,primary,https://this-domain-should-not-resolve-abcxyz123.example/profile
